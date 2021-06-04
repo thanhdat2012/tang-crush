@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Có người hỏi: 
     Thích 1 ngườii là như thế nào?
     Tớ liền hình dung ra cậu🤭🙆‍♂️ `,
-    btnIntro: 'hihi:3',
+    btnIntro: 'hihi:>',
     title: 'Tình yêu như là phép nhiệm màu cho nên đừng ngạii nếu uống say Em à 😘❤  ',
     desc: 'Em có muốn cùng anh tạo nên 1 mối tình khôngg🙆‍♂️ ? ',
     
